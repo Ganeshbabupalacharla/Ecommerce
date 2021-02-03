@@ -1,2 +1,2 @@
 # Ecommerce
-Just starting working on this project. Dont look at it.
+Just starting working on this project. Please checkout another applications.
